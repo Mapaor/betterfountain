@@ -458,8 +458,8 @@
 				],
 				"configuration": "./language-configuration.json",
 				"icon": {
-			        "light": "icons/fountain.svg",
-			        "dark": "icons/fountain.svg"
+			        "light": "assets/fountain.svg",
+			        "dark": "assets/fountain.svg"
 			      }
 			}
 		],
